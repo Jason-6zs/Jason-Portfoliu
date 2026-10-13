@@ -1,0 +1,13 @@
+// Short résumé captions. Full wording remains available in the experience panel.
+export const highlights=[
+ {lines:[['Tourism management in Macao, global management at HKU.','从澳门旅游管理本科，到香港大学环球管理硕士。'],['A foundation in research, business and consumer behaviour.','以商业、消费者行为与研究方法，积累跨行业视角。']],tag:['HKU × MUST · GPA 3.75/4.0','港大 × 澳科大 · 本科 GPA 3.75/4.0']},
+ {lines:[['Contributed to a 40-page engineering-machinery report.','参与约 40 页工程机械深度报告，开展财务与同行对比。'],['Tracked 10+ companies across China, Japan and the US.','跟踪中、日、美 10 多家企业，维护行业研究数据库。']],tag:['Research · 40-page report · 10+ companies','行业研究 · 40 页报告 · 10+ 企业']},
+ {lines:[['Left: manual work. Right: automation. My work: travel-order reports.','左侧手工、右侧自动：对应我处理旅游订单和月报的两种方式。'],['Built a Python pipeline: days of reporting became minutes.','用 Python 串起清洗、分析和报告，将数日工作缩至分钟。']],tag:['Python reporting · Days → minutes','Python 自动化报告 · 数日 → 分钟']},
+ {lines:[['Researched digital marketing and led a B2B video project.','研究数字营销趋势，主导 B2B 视频脚本、拍摄与剪辑。'],['Supported talent analytics with 300+ employee profiles.','支持 IBM Kenexa 项目，分析 300 多名员工测评数据。']],tag:['Marketing research · Video · Analytics','营销研究 · 视频创作 · 数据分析']},
+ {lines:[['Supported résumé screening, onboarding and HR records.','参与简历筛选与入职支持，整理和标准化人事资料。'],['Reviewed support-fund applications for 300+ employees.','核验 300 多名员工的基金申请，注重资料准确与完整。']],tag:['HR operations · 300+ applications','人力资源运营 · 300+ 员工申请']},
+ {lines:[['Used AI agents to collect and integrate tourism data.','用 AI agent 采集并整合游客、活动、天气和酒店数据。'],['Modelled hotel outcomes with regression and seasonality.','运用回归并控制季节性，研究活动与酒店表现的关联。']],tag:['AI agents · Multi-source data · Regression','AI agent · 多源数据 · 回归分析']},
+ {lines:[['Produced matched real-world and virtual tourism videos.','制作主题与风格一致的实景、虚拟旅游视频，开展对照。'],['Compared audience responses with t-tests and ANOVA.','通过 t 检验与 ANOVA，比较沉浸感、形象及旅游意愿。']],tag:['A/B study · 258 responses','A/B 内容实验 · 258 份有效样本']},
+ {lines:[['Studied social media and travel choice through a survey.','设计问卷，研究社交媒体营销与旅游目的地选择。'],['Analysed 276 responses across five research dimensions.','围绕五个研究维度，分析 276 份有效问卷。']],tag:['Consumer research · 276 responses','消费者研究 · 276 份有效问卷']},
+ {lines:[['AI-assisted Python, agent workflows and statistical tools.','用 AI 辅助 Python、agent 工作流和统计工具完成分析。'],['Complemented by design, video and multilingual communication.','结合设计、视频与多语言沟通，把分析转化为表达。']],tag:['Data · Content · English IELTS 7.0','数据 · 内容 · 英语 IELTS 7.0']},
+ {lines:[['The next chapter could be with your team.','下一章，期待与你的团队一起书写。'],['The chest contains my résumé and contact details.','打开宝箱，即可查看完整简历和联系方式。']],tag:['Let’s write the next chapter together.','下一章，期待与你共同书写。']}
+];

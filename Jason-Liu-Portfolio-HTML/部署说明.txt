@@ -1,0 +1,5 @@
+Jason's Island 作品集网页包
+
+打开 index.html 可查看网页入口文件。要完整运行 3D 作品集，请保持此文件与 style.css、各 JavaScript 文件、assets/、vendor/ 一起放在同一目录，并通过静态网站托管服务发布整个目录。
+
+请不要只上传 index.html：3D 场景、字体/样式、音乐、图片及简历 PDF 都由同目录资源提供。
